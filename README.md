@@ -34,9 +34,9 @@ Focado em desenvolvimento de baixo nível, engenharia de jogos e soluções perf
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [link-do-seu-linkedin]
-- **Portfólio PETRA Games:** [link-do-seu-site-ou-itchio]
-- **Email:** [seu-email@exemplo.com]
+- **LinkedIn:** linkedi,.com/in/joaopedrostrazzeri
+- **Portfólio PETRA Games:** petra-games.itch.io
+- **Email:** jpstrazzeri@gmail.com
 
 ---
 *"A matemática é o alfabeto com o qual Deus escreveu o universo." - Galileu Galilei*
